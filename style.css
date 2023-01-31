@@ -1,0 +1,19 @@
+.navbar{
+    padding-left:50px;
+    color:white;
+    border-bottom:0.5px solid rgb(00,00,00,0.1);
+    -webkit-box-shadow: 0 3px 2px -2px rgb(00,00,00,0.1);
+    -moz-box-shadow: 0 3px 2px -2px rgb(00,00,00,0.1);
+         box-shadow: 0 3px 2px -2px rgb(00,00,00,0.1) ;
+}
+.navbar-brand{
+    width:3%;
+    border:1px solid white;
+    
+}
+li{
+    padding-left: 10px;
+}
+*{
+    font-family: 'Montserrat', sans-serif;
+}
