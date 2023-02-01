@@ -6,11 +6,7 @@
     -moz-box-shadow: 0 3px 2px -2px rgb(00,00,00,0.1);
          box-shadow: 0 3px 2px -2px rgb(00,00,00,0.1) ;
 }
-.navbar-brand{
-    width:3%;
-    border:1px solid white;
-    
-}
+
 li{
     padding-left: 10px;
 }
